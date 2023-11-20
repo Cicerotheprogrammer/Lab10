@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.27)  20 NOV 2023 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.27)  20 NOV 2023 12:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/pehul/Desktop/Lab10/lab10.tex
-(c:/Users/pehul/Desktop/Lab10/lab10.tex
+**c:/Users/pehul/Documents/GitHub/Lab10/Lab10/lab10.tex
+(c:/Users/pehul/Documents/GitHub/Lab10/Lab10/lab10.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\pehul\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -390,7 +390,17 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
  (C:\Users\pehul\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (lab10.bbl) [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Overfull \hbox (50.27618pt too wide) in paragraph at lines 28--33
+ [][] 
+ []
+
+(lab10.bbl) [1
 
 {C:/Users/pehul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -404,16 +414,16 @@ Package rerunfilecheck Info: File `lab10.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10628 strings out of 475248
- 170700 string characters out of 5757813
- 1936801 words of memory out of 5000000
+ 170865 string characters out of 5757813
+ 1926801 words of memory out of 5000000
  31977 multiletter control sequences out of 15000+600000
  564118 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,10n,107p,571b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\pehul\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on lab10.pdf (1 page, 108074 bytes).
+ 94i,8n,107p,586b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\pehul\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pehul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on lab10.pdf (1 page, 76106 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
